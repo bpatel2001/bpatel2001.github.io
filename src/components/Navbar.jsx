@@ -29,9 +29,9 @@ const Navbar = () => {
   const NavLinks = () => {
     return (
       <>
-        <a className="hover:text-gray-500" href="#">About</a>
-        <a className="hover:text-gray-500" href="#">Resume</a>
-        <a className="hover:text-gray-500" href="#">Experience</a> 
+        <a className="hover:text-gray-500" href="#">About Me</a>
+        <a className="hover:text-gray-500" href="#">Experiences</a> 
+        <a className="hover:text-gray-500" href="#">Projects</a>
         <a className="hover:text-gray-500" href="#">Contact</a>
       </>
     )
@@ -53,8 +53,8 @@ const Navbar = () => {
     )
   }
 
-  return <nav className="mb-20 flex items-center justify-between py-6 px-8 text-xl flex-wrap bg-blue-950 shadow-lg">
-    <div className="flex flex-shrink-0 items-center">
+  return <nav className="text-blue-100 mb-40 flex items-center justify-between py-6 px-8 text-xl flex-wrap bg-blue-950 shadow-lg">
+    <div className="text-blue-200 flex flex-shrink-0 items-center">
       Portfolio
     </div>
     <div className="">
