@@ -27,14 +27,19 @@ const Navbar = () => {
   }, [isOpen])
 
   const NavLinks = () => {
+    const smoothScroll = (e, target) => {
+      e.preventDefault();
+      document.querySelector(target).scrollIntoView({ behavior: 'smooth' });
+    };
+
     return (
       <>
-        <a className="hover:text-gray-500" href="#">About Me</a>
-        <a className="hover:text-gray-500" href="#">Experiences</a> 
-        <a className="hover:text-gray-500" href="#">Projects</a>
-        <a className="hover:text-gray-500" href="#">Contact</a>
+        <a className="hover:text-gray-500" href="#about-me" onClick={(e) => smoothScroll(e, '#about-me')}>About Me</a>
+        <a className="hover:text-gray-500" href="#experiences" onClick={(e) => smoothScroll(e, '#experiences')}>Experiences</a> 
+        <a className="hover:text-gray-500" href="#projects" onClick={(e) => smoothScroll(e, '#projects')}>Projects</a>
+        <a className="hover:text-gray-500" href="#contact" onClick={(e) => smoothScroll(e, '#contact')}>Contact</a>
       </>
-    )
+    );
   }
 
   const SocialLinks = () => {
@@ -53,8 +58,8 @@ const Navbar = () => {
     )
   }
 
-  return <nav className="text-blue-100 mb-40 flex items-center justify-between py-6 px-8 text-xl flex-wrap bg-blue-950 shadow-lg">
-    <div className="text-blue-200 flex flex-shrink-0 items-center">
+  return <nav className="text-blue-100 flex items-center justify-between py-6 mb-60 px-8 text-xl flex-wrap bg-blue-950 shadow-lg">
+    <div className="text-3xl text-blue-200 flex flex-shrink-0 items-center">
       Portfolio
     </div>
     <div className="">
@@ -82,3 +87,5 @@ const Navbar = () => {
 }
 
 export default Navbar
+
+

@@ -5,7 +5,7 @@ import GasGif from '../assets/gasgif.gif'
 import HotelGif from '../assets/hotelgif.gif'
 const Projects = () => {
   return (
-    <div className="mb-40 pb-4 flex items-center justify-center">
+    <div className="mb-40 pb-4 flex items-center justify-center" id="projects">
       <div className="container mx-auto max-w-full flex flex-col items-center justify-center">
         <h1 className="text-4xl sm:text-5xl font-bold text-blue-100">Projects</h1>
         <div className="max-w-2xl mx-auto bg-opacity-80 bg-blue-950 p-6 rounded-lg shadow-lg mt-8">
