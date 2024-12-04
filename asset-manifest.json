@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.097ada4b.css",
-    "main.js": "/static/js/main.a0df41f4.js",
+    "main.css": "/static/css/main.84b6d7bb.css",
+    "main.js": "/static/js/main.7ba92933.js",
     "static/js/453.534db5b8.chunk.js": "/static/js/453.534db5b8.chunk.js",
+    "static/media/btlgif.gif": "/static/media/btlgif.7ff911803aab8cfe262d.gif",
+    "static/media/gasgif.gif": "/static/media/gasgif.429f11505403d48e3678.gif",
+    "static/media/hotelgif.gif": "/static/media/hotelgif.6ef7109788e59310f2ae.gif",
+    "static/media/chipgif.gif": "/static/media/chipgif.4b1b6a835600cb641916.gif",
+    "static/media/linkedinLogo.png": "/static/media/linkedinLogo.cabb3cbaf3529dc02ecc.png",
     "index.html": "/index.html",
-    "main.097ada4b.css.map": "/static/css/main.097ada4b.css.map",
-    "main.a0df41f4.js.map": "/static/js/main.a0df41f4.js.map",
+    "main.84b6d7bb.css.map": "/static/css/main.84b6d7bb.css.map",
+    "main.7ba92933.js.map": "/static/js/main.7ba92933.js.map",
     "453.534db5b8.chunk.js.map": "/static/js/453.534db5b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.097ada4b.css",
-    "static/js/main.a0df41f4.js"
+    "static/css/main.84b6d7bb.css",
+    "static/js/main.7ba92933.js"
   ]
 }
