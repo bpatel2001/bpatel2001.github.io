@@ -2,7 +2,7 @@ import React from 'react'
 
 const Landing = () => {
   return (
-    <div className="mb-40 pb-4 flex items-center justify-center">
+    <div className="mb-128 pb-4 flex items-center justify-center">
       <div className="container mx-auto max-w-full flex flex-col items-center justify-center">
         <h1 className="text-4xl sm:text-5xl font-bold text-blue-100">Hi, I'm Bhavik Patel!</h1>
         <p className="text-xl sm:text-2xl text-gray-300">Software Engineer</p>

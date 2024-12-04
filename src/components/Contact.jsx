@@ -45,7 +45,7 @@ const Contact = () => {
   return (
     <>
       <h1 className="text-4xl text-center sm:text-5xl font-bold text-blue-100" id="contact">Contact Me</h1>
-      <form onSubmit={onSubmit} className="max-w-2xl mx-auto p-4 bg-opacity-80 bg-blue-950 rounded-lg shadow-lg mt-8 mb-40">
+      <form onSubmit={onSubmit} className="max-w-2xl mx-auto p-4 bg-opacity-80 bg-blue-950 rounded-lg shadow-lg mt-8 mb-96">
         <div className="mb-4">
           <label className="block text-blue-100 text-sm font-bold mb-2" htmlFor="name">
             Name

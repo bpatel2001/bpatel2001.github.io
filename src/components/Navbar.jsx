@@ -58,7 +58,7 @@ const Navbar = () => {
     )
   }
 
-  return <nav className="text-blue-100 flex items-center justify-between py-6 mb-60 px-8 text-xl flex-wrap bg-blue-950 shadow-lg">
+  return <nav className="text-blue-100 flex items-center justify-between py-6 mb-96 px-8 text-xl flex-wrap bg-blue-950 shadow-lg">
     <div className="text-3xl text-blue-200 flex flex-shrink-0 items-center">
       Portfolio
     </div>
