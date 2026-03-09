@@ -1,20 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.dfdf2332.css",
-    "main.js": "/static/js/main.0af5501b.js",
+    "main.css": "/static/css/main.dbe55aa1.css",
+    "main.js": "/static/js/main.934f9524.js",
     "static/js/453.534db5b8.chunk.js": "/static/js/453.534db5b8.chunk.js",
     "static/media/btlgif.gif": "/static/media/btlgif.7ff911803aab8cfe262d.gif",
+    "static/media/invoicingsystem-screenshot.png": "/static/media/invoicingsystem-screenshot.6211b97f7bc7ba6465f6.png",
     "static/media/gasgif.gif": "/static/media/gasgif.429f11505403d48e3678.gif",
     "static/media/hotelgif.gif": "/static/media/hotelgif.6ef7109788e59310f2ae.gif",
+    "static/media/movieapp-screenshot.png": "/static/media/movieapp-screenshot.a15485c7a23c4c4ff6bb.png",
+    "static/media/inventoryapp-screenshot.png": "/static/media/inventoryapp-screenshot.10e7921b15531f117ec6.png",
+    "static/media/horizonapp-screenshot.png": "/static/media/horizonapp-screenshot.4459e3ccac4f5830e243.png",
+    "static/media/pixelforge-screenshot.png": "/static/media/pixelforge-screenshot.1e6a192f00fda18651d4.png",
     "static/media/chipgif.gif": "/static/media/chipgif.4b1b6a835600cb641916.gif",
     "static/media/linkedinLogo.png": "/static/media/linkedinLogo.cabb3cbaf3529dc02ecc.png",
     "index.html": "/index.html",
-    "main.dfdf2332.css.map": "/static/css/main.dfdf2332.css.map",
-    "main.0af5501b.js.map": "/static/js/main.0af5501b.js.map",
+    "main.dbe55aa1.css.map": "/static/css/main.dbe55aa1.css.map",
+    "main.934f9524.js.map": "/static/js/main.934f9524.js.map",
     "453.534db5b8.chunk.js.map": "/static/js/453.534db5b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dfdf2332.css",
-    "static/js/main.0af5501b.js"
+    "static/css/main.dbe55aa1.css",
+    "static/js/main.934f9524.js"
   ]
 }
