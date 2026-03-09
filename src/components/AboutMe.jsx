@@ -7,8 +7,7 @@ const AboutMe = () => {
         <h1 className="text-4xl sm:text-5xl font-bold text-blue-100">About Me</h1>
         <div className="max-w-3xl mx-auto bg-opacity-80 bg-blue-950 p-6 rounded-lg shadow-lg mt-8">
           <p className="text-lg sm:text-xl text-blue-100">
-            I am a developer that loves creating new things from the ground up. I truly shine when when working in a team, 
-            as I am always eager to learn and grow as a developer alongside a team of like-minded individuals that are just as passionate as me. 
+            I am a Thrive Apprentice - Software Engineer at Verizon with a passion for building impactful software that solves real-world problems. I have experience in full-stack development, and I am always eager to learn new technologies and improve my skills. At my position at Verizon as a Thrive Apprentice, I received formal training on software development as part of the Multiverse program where I honed my skills in full-stack development while also contributing to my team through hands-on work experience.
           </p>
           <p className="text-lg sm:text-xl text-blue-100 mt-4">
             I have a deep interest in the field of embedded software engineering as well, finding that the closer relationship betwen hardware and software really appeals to me.

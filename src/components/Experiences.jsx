@@ -9,12 +9,11 @@ const Experiences = () => {
           {/* Experience 1 */}
           <div className="mb-8">
             <div className="text-blue-200 text-sm sm:text-base font-semibold">
-              <span>2023 — PRESENT</span>
+              <span>2025-Present</span>
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-blue-100">Technical Systems Specialist · Palace Inn</h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-blue-100">Thrive Apprentice - Software Engineering · Verizon</h2>
             <p className="text-blue-200 mt-2">
-              Maintain critical on-site infrastructure, including servers, routers, switches, and network equipment,
-              troubleshooting and resolving network issues, ensuring uninterrupted connectivity for the hotel&apos;s guests.
+              Developed Agentic POCs using Python and Flask for internal use cases that integrates with legacy systems.
             </p>
           </div>
 
