@@ -1,0 +1,1 @@
+export const HEADLINE = 'Passionate developer, eager to tackle any challenge.' 
