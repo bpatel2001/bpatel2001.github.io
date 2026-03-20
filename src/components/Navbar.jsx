@@ -36,6 +36,7 @@ const Navbar = () => {
       <>
         <a className="hover:text-gray-500" href="#about-me" onClick={(e) => smoothScroll(e, '#about-me')}>About Me</a>
         <a className="hover:text-gray-500" href="#experiences" onClick={(e) => smoothScroll(e, '#experiences')}>Experiences</a> 
+        <a className="hover:text-gray-500" href="#multiverse-projects" onClick={(e) => smoothScroll(e, '#multiverse-projects')}>Multiverse Projects</a>
         <a className="hover:text-gray-500" href="#projects" onClick={(e) => smoothScroll(e, '#projects')}>Projects</a>
         <a className="hover:text-gray-500" href="#contact" onClick={(e) => smoothScroll(e, '#contact')}>Contact</a>
       </>
@@ -58,7 +59,7 @@ const Navbar = () => {
     )
   }
 
-  return <nav className="text-blue-100 flex items-center justify-between py-6 mb-96 px-8 text-xl flex-wrap bg-blue-950 shadow-lg">
+  return <nav className="text-blue-100 flex items-center justify-between py-6 mb-40 px-8 text-xl flex-wrap bg-blue-950 shadow-lg">
     <div className="text-3xl text-blue-200 flex flex-shrink-0 items-center">
       Portfolio
     </div>
